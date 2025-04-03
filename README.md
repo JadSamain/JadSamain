@@ -1,5 +1,5 @@
 # 💫 Bonjour Bonjour !
-- 🌱 Moi c'est Jad, et j'ai 20 ans ! <br> - 🔭 Je suis actuellement en BUT SD, à l'IUT Lumière Lyon 2, en filière VCOD (Visualisation et Conception d'Outils Décisionnels) !<br>- 💬 Je suis Développeur / Consultant BI (Junior) chez Istep.<br>- ⚡ L'année prochaine, je rejoins la team Epitech Lyon, pour faire un Master spécialisé dans la BI et l'Analyse de données.<br>- 👯 Je recherche activement une alternance pour les 2 prochaines années (à partir d'Octobre 2025), puis un potentiel CDI ;) !<br> - 📖 Ce github me sert principalement à héberger certains projets de cours, afin de conserver des traces, et du versionning !
+- 🌱 Moi c'est Jad, et j'ai 20 ans ! <br> - 🔭 Je suis actuellement en BUT SD, à l'IUT Lumière Lyon 2, en filière VCOD (Visualisation et Conception d'Outils Décisionnels) !<br>- 💬 Je suis Développeur / Consultant BI (Junior) chez Istep.<br>- ⚡ L'année prochaine, je rejoins la team Epitech Lyon, pour faire un Master spécialisé dans la BI et la Data Science.<br>- 👯 Je recherche activement une alternance pour les 2 prochaines années (à partir d'Octobre 2025), puis un potentiel CDI ;) !<br> - 📖 Ce github me sert principalement à héberger certains projets de cours, afin de conserver des traces, et du versionning !
 
 
 ## 🌐 Socials:
